@@ -1,0 +1,4 @@
+ls -la
+pwd && ls -la
+ls -la ; pwd ; ls
+quit
